@@ -1,0 +1,46 @@
+Mono path[0] = 'C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data/Managed'
+Mono path[1] = 'C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data/Mono'
+Mono config path = 'C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55291
+Multi-casting "[IP] 192.168.0.4 [Port] 55291 [Flags] 2 [Guid] 1415394367 [EditorId] 1505197603 [Version] 1048832 [Id] WindowsPlayer(Abe-PC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55291]
+PlayerConnection already initialized - listening to [0.0.0.0:55291]
+Player data archive not found at `C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.171.257
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Abe\Documents\Rolling Ball V.02\Rolling Ballv.04_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.709548 ms
+CreateDirectory 'C:/Users/Abe/AppData/LocalLow/BLeh/Rolling Ball /Unity' failed: The system cannot find the path specified.
+ (current dir: C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data)
+CreateDirectory 'C:/Users/Abe/AppData/LocalLow/BLeh/Rolling Ball /Unity' failed: The system cannot find the path specified.
+ (current dir: C:/Users/Abe/Documents/Rolling Ball V.02/Rolling Ballv.04_Data)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 14c4 -> priority: 1 
+  Thread -> id: 1964 -> priority: 1 
+  Thread -> id: 292c -> priority: 1 
+  Thread -> id: 1898 -> priority: 1 
